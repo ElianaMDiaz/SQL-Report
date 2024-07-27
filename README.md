@@ -11,6 +11,3 @@ My organization is working to make its system more secure. It is my job to ensur
 - Retrieve Employees in Finance or Sales
 - Retrieve All Employees Not in IT
 - Summary
-
-- ## Retrieve After Hours Failed Login Attempts
-There was a potential security incident that occurred after business hours (after 18:00). All after-hours login attempts that failed need to be investigated.
